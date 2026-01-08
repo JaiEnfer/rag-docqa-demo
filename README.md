@@ -1,4 +1,4 @@
-# RAG Document Question Answering Demo  
+# RAG Document Question Answering  
 **FastAPI · FAISS · Ollama · Streamlit**
 
 A complete **Document Question Answering (DocQA)** system built using **Retrieval-Augmented Generation (RAG)**.  
