@@ -1,0 +1,4 @@
+﻿Berlin is the capital of Germany.
+RAG means Retrieval-Augmented Generation.
+Jai Prakash is a Data Scientist, who is having an experience of Computer Vision.
+This project uses FastAPI, FAISS vector search, embeddings, and a local LLM via Ollama.
